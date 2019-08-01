@@ -1,6 +1,10 @@
 # BTalk-AutoReply
 BitcoinTalk Auto-Reply Script
 
+## What is this?
+
+This script was made for [BitcoinTalk](https://bitcointalk.org/) (an internet forum) in order to make "bumping" (or auto-replying every 24 hours) a much easier process.
+
 ## Setup
 
 1. Download the lastest version of Python [here](https://www.python.org/downloads/) if needed.
